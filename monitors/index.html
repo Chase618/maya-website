@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>玛雅显示器 - MAYA 官方网站</title>
+  <meta name="description" content="浏览MAYA玛雅全系列显示器产品，涵盖商用、电竞、设计、专业四大系列。">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">MAYA</a>
+    <ul class="nav-links">
+      <li><a href="../index.html">首页</a></li>
+      <li><a href="index.html" style="color:#fff;">显示器</a></li>
+      <li><a href="../aios/index.html">一体机</a></li>
+      <li><a href="../others/index.html">其他产品</a></li>
+    </ul>
+    <button class="nav-mobile-toggle" aria-label="菜单">&#9776;</button>
+  </div>
+</nav>
+
+<div class="page-hero">
+  <h1 class="page-hero-title">玛雅显示器</h1>
+  <p class="page-hero-desc">商用 · 电竞 · 设计 · 专业四大系列，满足不同场景需求</p>
+</div>
+
+<div class="breadcrumb">
+  <a href="../index.html">首页</a> <span>›</span> 显示器
+</div>
+
+<div class="sub-tabs" id="subTabs">
+  <button class="sub-tab active" data-tab="all">全部</button>
+  <button class="sub-tab" data-tab="commercial">商用系列</button>
+  <button class="sub-tab" data-tab="gaming">电竞系列</button>
+  <button class="sub-tab" data-tab="design">设计系列</button>
+  <button class="sub-tab" data-tab="professional">专业系列</button>
+</div>
+
+<div class="product-grid" id="productGrid"></div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <p>&copy; 2026 MAYA 玛雅. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="../js/app.js"></script>
+<script>
+(async function() {
+  const data = await loadProducts();
+  const grid = document.getElementById('productGrid');
+  const tabs = document.getElementById('subTabs');
+
+  const monitors = data.monitors || {};
+
+  function getProducts(filter) {
+    let all = [];
+    for (const [sub, prods] of Object.entries(monitors)) {
+      if (filter === 'all' || filter === sub) {
+        all = all.concat(prods.map(p => ({...p, category: 'monitors', subCategory: sub})));
+      }
+    }
+    return all;
+  }
+
+  function render(filter) {
+    renderProductGrid(grid, getProducts(filter));
+  }
+
+  render('all');
+
+  tabs.addEventListener('click', (e) => {
+    if (!e.target.classList.contains('sub-tab')) return;
+    tabs.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+    e.target.classList.add('active');
+    render(e.target.dataset.tab);
+  });
+})();
+</script>
+</body>
+</html>

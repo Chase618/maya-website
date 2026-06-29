@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.psd
+*.ai
+generate_*.py
+fix_paths.py
