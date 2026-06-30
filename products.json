@@ -503,7 +503,7 @@
         "name": "weapon-master-vr-stand",
         "dir": "weapon-master-vr-stand",
         "images": [
-          "images\\others\\vr\\weapon-master-vr-stand\\2.jpg",
+          "images/others/vr/weapon-master-vr-stand/item.jpg",
           "images\\others\\vr\\weapon-master-vr-stand\\3.jpg",
           "images\\others\\vr\\weapon-master-vr-stand\\4.jpg",
           "images\\others\\vr\\weapon-master-vr-stand\\5.jpg",
@@ -517,7 +517,7 @@
           "images\\others\\vr\\weapon-master-vr-stand\\detail\\05.jpg",
           "images\\others\\vr\\weapon-master-vr-stand\\detail\\06.jpg"
         ],
-        "thumb": "images\\others\\vr\\weapon-master-vr-stand\\2.jpg"
+        "thumb": "images/others/vr/weapon-master-vr-stand/item.jpg"
       }
     ],
     "sockets": [
