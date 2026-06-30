@@ -81,13 +81,14 @@ function renderProductGrid(container, products) {
     const thumb = img(p.thumb || p.images[0]);
     const url = productUrl(p);
     const tag = getCategoryLabel(p.category, p.subCategory);
+    const displayName = p.display_name || p.name;
     return `
       <div class="product-card fade-in" onclick="location.href='${url}'">
         <div class="product-card-image">
-          <img src="${thumb}" alt="${p.name}" loading="lazy">
+          <img src="${thumb}" alt="${displayName}" loading="lazy">
         </div>
         <div class="product-card-body">
-          <div class="product-card-name">${p.name}</div>
+          <div class="product-card-name">${displayName}</div>
           ${tag ? `<span class="product-card-tag">${tag}</span>` : ''}
         </div>
       </div>

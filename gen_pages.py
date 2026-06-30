@@ -26,17 +26,18 @@ def make_product_page(p, category, sub_category, index_depth):
     detail_imgs = [img.replace('\\', '/') for img in p.get('detail_images', [])]
     thumb = all_imgs[0] if all_imgs else p.get('thumb', '')
     thumb = thumb.replace('\\', '/')
+    display_name = p.get('display_name', p['name'])
 
     sub_label = sub_labels.get(sub_category, sub_category) if sub_category else ''
 
     thumbs_html = ''
     for i, img in enumerate(all_imgs):
         active = 'active' if i == 0 else ''
-        thumbs_html += f'      <div class="product-thumb {active}"><img src="{img}" alt="{esc(p["name"])}"></div>\n'
+        thumbs_html += f'      <div class="product-thumb {active}"><img src="{img}" alt="{esc(display_name)}"></div>\n'
 
     detail_html = ''
     for img in detail_imgs:
-        detail_html += f'    <img src="{img}" alt="{esc(p["name"])}" loading="lazy">\n'
+        detail_html += f'    <img src="{img}" alt="{esc(display_name)}" loading="lazy">\n'
 
     nav_html = f'''
 <nav class="nav">
@@ -55,10 +56,10 @@ def make_product_page(p, category, sub_category, index_depth):
     body = f'''
 <div class="product-detail">
   <div class="product-hero">
-    <h1 class="product-hero-title">{esc(p["name"])}</h1>
+    <h1 class="product-hero-title">{esc(display_name)}</h1>
     <p class="product-hero-tag">{esc(sub_label)}</p>
     <div class="product-hero-image">
-      <img src="{thumb}" alt="{esc(p["name"])}">
+      <img src="{thumb}" alt="{esc(display_name)}">
     </div>
   </div>
 '''
@@ -67,7 +68,7 @@ def make_product_page(p, category, sub_category, index_depth):
         body += f'''
   <div class="product-gallery">
     <div class="product-gallery-main">
-      <img src="{thumb}" alt="{esc(p["name"])}">
+      <img src="{thumb}" alt="{esc(display_name)}">
     </div>
     <div class="product-thumbnails">
 {thumbs_html}    </div>
@@ -87,7 +88,7 @@ def make_product_page(p, category, sub_category, index_depth):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{esc(p["name"])} - MAYA 玛雅</title>
+  <title>{esc(display_name)} - MAYA 玛雅</title>
   <link rel="stylesheet" href="{index_depth}css/style.css">
 </head>
 <body>
