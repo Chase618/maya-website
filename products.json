@@ -2,816 +2,564 @@
   "monitors": {
     "commercial": [
       {
-        "name": "Air 20(Air系列19.53英寸显示器)",
-        "dir": "Air 20(Air系列19.53英寸显示器)",
+        "name": "air-20-air19-53",
+        "dir": "air-20-air19-53",
         "images": [
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-1白底图.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-2白底图.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-3白底图.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-4白底图.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-5白底图.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-6白底图.jpg"
-        ],
-        "detail_images": [
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_01.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_02.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_03.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_04.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_05.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_06.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_07.jpg",
-          "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/Air 20-详情页/Air-20_08.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 20(Air系列19.53英寸显示器)/AIR-20-1白底图.jpg"
-      },
-      {
-        "name": "Air 22 Plus(Air系列21.5英寸显示器)",
-        "dir": "Air 22 Plus(Air系列21.5英寸显示器)",
-        "images": [
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-2.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-3.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-4.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-5.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-6.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图.jpg"
-        ],
-        "detail_images": [
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_01.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_02.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_03.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_04.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_05.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_06.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_07.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_08.jpg",
-          "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/Air 22Plus-详情页/Air22Plus-790_09.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 22 Plus(Air系列21.5英寸显示器)/AIR-22-plus白底图-2.jpg"
-      },
-      {
-        "name": "Air 22(Air系列21.5英寸显示器)",
-        "dir": "Air 22(Air系列21.5英寸显示器)",
-        "images": [
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-1.jpg",
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-2.jpg",
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-3.jpg",
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-4.jpg",
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-5.jpg",
-          "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-6.jpg"
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-1.jpg",
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-2.jpg",
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-3.jpg",
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-4.jpg",
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-5.jpg",
+          "images\\monitors\\commercial\\air-20-air19-53\\air-20-6.jpg"
         ],
         "detail_images": [],
-        "thumb": "images/monitors/commercial/Air 22(Air系列21.5英寸显示器)/Air 22-1.jpg"
+        "thumb": "images\\monitors\\commercial\\air-20-air19-53\\air-20-1.jpg"
       },
       {
-        "name": "Air 24 Plus(Air系列23.8英寸显示器)",
-        "dir": "Air 24 Plus(Air系列23.8英寸显示器)",
+        "name": "air-22-air21-5",
+        "dir": "air-22-air21-5",
         "images": [
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-1.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-2.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-3.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-4.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-5.jpg"
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-1.jpg",
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-2.jpg",
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-3.jpg",
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-4.jpg",
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-5.jpg",
+          "images\\monitors\\commercial\\air-22-air21-5\\air-22-6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_01.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_02.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_03.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_04.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_05.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_06.jpg",
-          "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24Plus-详情页/24plus描述_07.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 24 Plus(Air系列23.8英寸显示器)/Air 24 Plus-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-22-air21-5\\air-22-1.jpg"
       },
       {
-        "name": "Air 24 Pro(商用23.8英寸显示器)",
-        "dir": "Air 24 Pro(商用23.8英寸显示器)",
+        "name": "air-22-plus-air21-5",
+        "dir": "air-22-plus-air21-5",
         "images": [
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/air24-pro-白底1.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/air24-pro-白底2.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/air24-pro-白底3.jpg"
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-2.jpg",
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-3.jpg",
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-4.jpg",
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-5.jpg",
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-6.jpg",
+          "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus.jpg"
         ],
-        "detail_images": [
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-1.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-2.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-3.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-4.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-5.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-6.jpg",
-          "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/Air 24 Pro-详情页/Air 24 Pro详情-7.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 24 Pro(商用23.8英寸显示器)/air24-pro-白底1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-22-plus-air21-5\\air-22-plus-2.jpg"
       },
       {
-        "name": "Air 24(Air系列24英寸显示器)",
-        "dir": "Air 24(Air系列24英寸显示器)",
+        "name": "air-24-air24",
+        "dir": "air-24-air24",
         "images": [
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/1.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/2.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/3.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/4.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/5.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/6.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24 喷绘.jpg"
+          "images\\monitors\\commercial\\air-24-air24\\1.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\2.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\3.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\4.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\5.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\6.jpg",
+          "images\\monitors\\commercial\\air-24-air24\\air-24.jpg"
         ],
-        "detail_images": [
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-1.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-10.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-2.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-3.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-4.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-5.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-6.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-7.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-8.jpg",
-          "images/monitors/commercial/Air 24(Air系列24英寸显示器)/Air 24-详情页/Air 24详情-9.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 24(Air系列24英寸显示器)/1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-24-air24\\1.jpg"
       },
       {
-        "name": "Air 240C(商用23.6英寸显示器)",
-        "dir": "Air 240C(商用23.6英寸显示器)",
+        "name": "air-24-plus-air23-8",
+        "dir": "air-24-plus-air23-8",
         "images": [
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-1.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-2.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-3.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-4.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-5.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-6.jpg"
+          "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-1.jpg",
+          "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-2.jpg",
+          "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-3.jpg",
+          "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-4.jpg",
+          "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_01.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_02.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_03.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_04.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_05.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_06.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_07.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_08.jpg",
-          "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/Air 240C-详情页/Air-240c_09.jpg"
-        ],
-        "thumb": "images/monitors/commercial/Air 240C(商用23.6英寸显示器)/air 240c白底图-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-24-plus-air23-8\\air-24-plus-1.jpg"
       },
       {
-        "name": "Air 27 Pro(商用27英寸显示器)",
-        "dir": "Air 27 Pro(商用27英寸显示器)",
+        "name": "air-24-pro-23-8",
+        "dir": "air-24-pro-23-8",
         "images": [
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27pro-2.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27pro-3.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27pro-4.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27pro1.jpg"
+          "images\\monitors\\commercial\\air-24-pro-23-8\\air24-pro-1.jpg",
+          "images\\monitors\\commercial\\air-24-pro-23-8\\air24-pro-2.jpg",
+          "images\\monitors\\commercial\\air-24-pro-23-8\\air24-pro-3.jpg"
         ],
-        "detail_images": [
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-1.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-2.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-3.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-4.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-5.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-6.jpg",
-          "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27 Pro-详情页/Air 27 Pro详情-7.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-24-pro-23-8\\air24-pro-1.jpg"
+      },
+      {
+        "name": "air-240c-23-6",
+        "dir": "air-240c-23-6",
+        "images": [
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-1.jpg",
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-2.jpg",
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-3.jpg",
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-4.jpg",
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-5.jpg",
+          "images\\monitors\\commercial\\air-240c-23-6\\air-240c-6.jpg"
         ],
-        "thumb": "images/monitors/commercial/Air 27 Pro(商用27英寸显示器)/Air 27pro-2.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-240c-23-6\\air-240c-1.jpg"
+      },
+      {
+        "name": "air-27-pro-27",
+        "dir": "air-27-pro-27",
+        "images": [
+          "images\\monitors\\commercial\\air-27-pro-27\\air-27pro-2.jpg",
+          "images\\monitors\\commercial\\air-27-pro-27\\air-27pro-3.jpg",
+          "images\\monitors\\commercial\\air-27-pro-27\\air-27pro-4.jpg",
+          "images\\monitors\\commercial\\air-27-pro-27\\air-27pro1.jpg"
+        ],
+        "detail_images": [],
+        "thumb": "images\\monitors\\commercial\\air-27-pro-27\\air-27pro-2.jpg"
       }
     ],
     "gaming": [
       {
-        "name": "7G27Q(27英寸-144Hz电竞显示器)",
-        "dir": "7G27Q(27英寸-144Hz电竞显示器)",
+        "name": "7g27q-27-144hz",
+        "dir": "7g27q-27-144hz",
         "images": [
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-1.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-2.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-3.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-4.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-5.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-6.jpg"
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-1.jpg",
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-2.jpg",
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-3.jpg",
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-4.jpg",
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-5.jpg",
+          "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-1.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-10.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-2.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-3.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-4.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-5.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-6.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-7.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-8.jpg",
-          "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-详情页/7G27Q-详情页-9.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G27Q(27英寸-144Hz电竞显示器)/7G27Q-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g27q-27-144hz\\7G27Q-1.jpg"
       },
       {
-        "name": "7G32(31.5英寸-吃鸡电竞显示器)",
-        "dir": "7G32(31.5英寸-吃鸡电竞显示器)",
+        "name": "7g32-31-5",
+        "dir": "7g32-31-5",
         "images": [
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-1.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-2.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-3.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-4.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-5.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-6.jpg"
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-1.jpg",
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-2.jpg",
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-3.jpg",
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-4.jpg",
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-5.jpg",
+          "images\\monitors\\gaming\\7g32-31-5\\7G32-6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_01.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_02.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_03.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_04.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_05.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_06.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_07.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_08.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_09.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_10.jpg",
-          "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-详情页/7G32描述_11.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G32(31.5英寸-吃鸡电竞显示器)/7G32-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g32-31-5\\7G32-1.jpg"
       },
       {
-        "name": "7G32S(31.5英寸-165Hz曲面电竞显示器)",
-        "dir": "7G32S(31.5英寸-165Hz曲面电竞显示器)",
+        "name": "7g32s-31-5-165hz",
+        "dir": "7g32s-31-5-165hz",
         "images": [
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图1.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图2.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图3.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图4.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图5.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图6.jpg"
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s1.jpg",
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s2.jpg",
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s3.jpg",
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s4.jpg",
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s5.jpg",
+          "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_01.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_02.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_03.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_04.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_05.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_06.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_07.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_08.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_09.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_10.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_11.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_12.jpg",
-          "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S-详情页/7G32S描述_13.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G32S(31.5英寸-165Hz曲面电竞显示器)/7G32S主图1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g32s-31-5-165hz\\7g32s1.jpg"
       },
       {
-        "name": "7G33Q(31.5英寸-144Hz曲面电竞显示器)",
-        "dir": "7G33Q(31.5英寸-144Hz曲面电竞显示器)",
+        "name": "7g33q-31-5-144hz",
+        "dir": "7g33q-31-5-144hz",
         "images": [
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-1.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-2.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-3.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-4.jpg"
+          "images\\monitors\\gaming\\7g33q-31-5-144hz\\7G33Q-1.jpg",
+          "images\\monitors\\gaming\\7g33q-31-5-144hz\\7G33Q-2.jpg",
+          "images\\monitors\\gaming\\7g33q-31-5-144hz\\7G33Q-3.jpg",
+          "images\\monitors\\gaming\\7g33q-31-5-144hz\\7G33Q-4.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_01.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_02.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_03.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_04.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_05.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_06.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_07.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_08.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_09.jpg",
-          "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-详情页/7G33Q详情页_10.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G33Q(31.5英寸-144Hz曲面电竞显示器)/7G33Q-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g33q-31-5-144hz\\7G33Q-1.jpg"
       },
       {
-        "name": "7G33S(31.5英寸-165Hz曲面电竞显示器)",
-        "dir": "7G33S(31.5英寸-165Hz曲面电竞显示器)",
+        "name": "7g33s-31-5-165hz",
+        "dir": "7g33s-31-5-165hz",
         "images": [
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-1.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-2.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-3.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-4.jpg"
+          "images\\monitors\\gaming\\7g33s-31-5-165hz\\7G33S-1.jpg",
+          "images\\monitors\\gaming\\7g33s-31-5-165hz\\7G33S-2.jpg",
+          "images\\monitors\\gaming\\7g33s-31-5-165hz\\7G33S-3.jpg",
+          "images\\monitors\\gaming\\7g33s-31-5-165hz\\7G33S-4.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_01.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_02.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_03.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_04.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_05.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_06.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_07.jpg",
-          "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-详情页/7G33S详情页_08.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G33S(31.5英寸-165Hz曲面电竞显示器)/7G33S-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g33s-31-5-165hz\\7G33S-1.jpg"
       },
       {
-        "name": "7G40(38.5英寸-144Hz吃鸡电竞显示器)",
-        "dir": "7G40(38.5英寸-144Hz吃鸡电竞显示器)",
+        "name": "7g40-38-5-144hz",
+        "dir": "7g40-38-5-144hz",
         "images": [
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底2.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底3.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底4.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底5.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底6.jpg"
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g40.jpg",
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g402.jpg",
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g403.jpg",
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g404.jpg",
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g405.jpg",
+          "images\\monitors\\gaming\\7g40-38-5-144hz\\7g406.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_01.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_02.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_03.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_04.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_05.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_06.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_07.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_08.jpg",
-          "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7G40-详情页/7G40描述_09.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G40(38.5英寸-144Hz吃鸡电竞显示器)/7g40白底.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g40-38-5-144hz\\7g40.jpg"
       },
       {
-        "name": "7G40G(38.5英寸-144Hz曲面电竞显示器)",
-        "dir": "7G40G(38.5英寸-144Hz曲面电竞显示器)",
+        "name": "7g40g-38-5-144hz",
+        "dir": "7g40g-38-5-144hz",
         "images": [
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-1.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-2.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-3.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-4.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-5.jpg"
+          "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-1.jpg",
+          "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-2.jpg",
+          "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-3.jpg",
+          "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-4.jpg",
+          "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_01.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_02.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_03.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_04.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_05.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_06.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_07.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_08.jpg",
-          "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-详情页/7G40G详情页_09.jpg"
-        ],
-        "thumb": "images/monitors/gaming/7G40G(38.5英寸-144Hz曲面电竞显示器)/7G40G-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\7g40g-38-5-144hz\\7G40G-1.jpg"
       },
       {
-        "name": "Air 27Q(27英寸-IPS镜面 电竞显示器)",
-        "dir": "Air 27Q(27英寸-IPS镜面 电竞显示器)",
+        "name": "air-27q-27-ips",
+        "dir": "air-27q-27-ips",
         "images": [
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-1.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-2.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-3.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-4.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-5.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-6.jpg"
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-1.jpg",
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-2.jpg",
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-3.jpg",
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-4.jpg",
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-5.jpg",
+          "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-0.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-1.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-2.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-3.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-4.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-5.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-6.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-7.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-8.jpg",
-          "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-详情页/Air 27Q详情页-9.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 27Q(27英寸-IPS镜面 电竞显示器)/Air 27Q-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-27q-27-ips\\air-27q-1.jpg"
       },
       {
-        "name": "Air 32B(31.5英寸-纤薄电竞显示器)",
-        "dir": "Air 32B(31.5英寸-纤薄电竞显示器)",
+        "name": "air-32b-31-5",
+        "dir": "air-32b-31-5",
         "images": [
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图2.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图3.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图4.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图5.jpg"
+          "images\\monitors\\gaming\\air-32b-31-5\\air32b.jpg",
+          "images\\monitors\\gaming\\air-32b-31-5\\air32b2.jpg",
+          "images\\monitors\\gaming\\air-32b-31-5\\air32b3.jpg",
+          "images\\monitors\\gaming\\air-32b-31-5\\air32b4.jpg",
+          "images\\monitors\\gaming\\air-32b-31-5\\air32b5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-1.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-10.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-11.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-2.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-3.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-4.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-5.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-6.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-7.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-8.jpg",
-          "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/Air 32B-详情页/Air 32B详情-9.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 32B(31.5英寸-纤薄电竞显示器)/air32b白底图.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-32b-31-5\\air32b.jpg"
       },
       {
-        "name": "Air 32QB(31.5英寸-超薄电竞显示器)",
-        "dir": "Air 32QB(31.5英寸-超薄电竞显示器)",
+        "name": "air-32qb-31-5",
+        "dir": "air-32qb-31-5",
         "images": [
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图2.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图3.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图4.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图5.jpg"
+          "images\\monitors\\gaming\\air-32qb-31-5\\air32qb.jpg",
+          "images\\monitors\\gaming\\air-32qb-31-5\\air32qb2.jpg",
+          "images\\monitors\\gaming\\air-32qb-31-5\\air32qb3.jpg",
+          "images\\monitors\\gaming\\air-32qb-31-5\\air32qb4.jpg",
+          "images\\monitors\\gaming\\air-32qb-31-5\\air32qb5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air 32QB-1920x500.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_01.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_02.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_03.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_04.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_05.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_06.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_07.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_08.jpg",
-          "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/Air 32QB-详情页/Air-32QB-描述_09.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 32QB(31.5英寸-超薄电竞显示器)/air32Qb白底图.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-32qb-31-5\\air32qb.jpg"
       },
       {
-        "name": "Air 32S(31.5英寸-1800R曲率电竞显示器)",
-        "dir": "Air 32S(31.5英寸-1800R曲率电竞显示器)",
+        "name": "air-32s-31-5-1800r",
+        "dir": "air-32s-31-5-1800r",
         "images": [
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-1.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-2.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-3.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-4.jpg"
+          "images\\monitors\\gaming\\air-32s-31-5-1800r\\air-32s-1.jpg",
+          "images\\monitors\\gaming\\air-32s-31-5-1800r\\air-32s-2.jpg",
+          "images\\monitors\\gaming\\air-32s-31-5-1800r\\air-32s-3.jpg",
+          "images\\monitors\\gaming\\air-32s-31-5-1800r\\air-32s-4.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_01.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_02.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_03.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_04.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_05.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_06.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_07.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_08.jpg",
-          "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-详情页/Air-32s详情_09.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 32S(31.5英寸-1800R曲率电竞显示器)/Air 32S-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-32s-31-5-1800r\\air-32s-1.jpg"
       },
       {
-        "name": "Air 40G(38.5英寸-3000R曲率电竞显示器)",
-        "dir": "Air 40G(38.5英寸-3000R曲率电竞显示器)",
+        "name": "air-40g-38-5-3000r",
+        "dir": "air-40g-38-5-3000r",
         "images": [
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-1.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-2.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-3.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-4.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-5.jpg"
+          "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-1.jpg",
+          "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-2.jpg",
+          "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-3.jpg",
+          "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-4.jpg",
+          "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_01.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_02.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_03.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_04.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_05.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_06.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_07.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_08.jpg",
-          "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-详情页/Air-40G-详情页_09.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 40G(38.5英寸-3000R曲率电竞显示器)/Air 40G-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-40g-38-5-3000r\\air-40g-1.jpg"
       },
       {
-        "name": "Air 40R(38.5英寸-超大屏率电竞显示器)",
-        "dir": "Air 40R(38.5英寸-超大屏率电竞显示器)",
+        "name": "air-40r-38-5",
+        "dir": "air-40r-38-5",
         "images": [
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-1.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-2.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-3.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-4.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-5.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-6.jpg"
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-1.jpg",
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-2.jpg",
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-3.jpg",
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-4.jpg",
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-5.jpg",
+          "images\\monitors\\gaming\\air-40r-38-5\\air40r-6.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-1.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-10.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-2.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-3.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-4.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-5.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-6.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-7.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-8.jpg",
-          "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/Air 40R-详情页/Air 40R-详情页-9.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 40R(38.5英寸-超大屏率电竞显示器)/air40R白底-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-40r-38-5\\air40r-1.jpg"
       },
       {
-        "name": "Air 40RB(38.5英寸-超大屏电竞显示器)",
-        "dir": "Air 40RB(38.5英寸-超大屏电竞显示器)",
+        "name": "air-40rb-38-5",
+        "dir": "air-40rb-38-5",
         "images": [
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-1.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-2.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-3.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-4.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-5.jpg"
+          "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-1.jpg",
+          "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-2.jpg",
+          "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-3.jpg",
+          "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-4.jpg",
+          "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_01.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_02.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_03.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_04.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_05.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_06.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_07.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_08.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_09.jpg",
-          "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-详情页/0401-Air-40RB详情页_10.jpg"
-        ],
-        "thumb": "images/monitors/gaming/Air 40RB(38.5英寸-超大屏电竞显示器)/Air 40RB-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\gaming\\air-40rb-38-5\\air-40rb-1.jpg"
       }
     ],
     "design": [
       {
-        "name": "Q32(色彩狂魔 量子点显示器 设计师必备)",
-        "dir": "Q32(色彩狂魔 量子点显示器 设计师必备)",
+        "name": "q32",
+        "dir": "q32",
         "images": [
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-1.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-2.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-3.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-4.jpg"
+          "images\\monitors\\design\\q32\\Q32-1.jpg",
+          "images\\monitors\\design\\q32\\Q32-2.jpg",
+          "images\\monitors\\design\\q32\\Q32-3.jpg",
+          "images\\monitors\\design\\q32\\Q32-4.jpg"
         ],
-        "detail_images": [
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-1.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-10.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-11.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-12.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-2.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-3.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-4.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-5.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-6.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-7.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-8.jpg",
-          "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-详情页/Q32详情-9.jpg"
-        ],
-        "thumb": "images/monitors/design/Q32(色彩狂魔 量子点显示器 设计师必备)/Q32-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\design\\q32\\Q32-1.jpg"
       },
       {
-        "name": "U2717H(全面屏 99%sRGB色域 纯粹视觉)",
-        "dir": "U2717H(全面屏 99%sRGB色域 纯粹视觉)",
+        "name": "u2717h-99-srgb",
+        "dir": "u2717h-99-srgb",
         "images": [
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-1.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-2.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-3.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-4.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-5.jpg"
+          "images\\monitors\\design\\u2717h-99-srgb\\U2717H-1.jpg",
+          "images\\monitors\\design\\u2717h-99-srgb\\U2717H-2.jpg",
+          "images\\monitors\\design\\u2717h-99-srgb\\U2717H-3.jpg",
+          "images\\monitors\\design\\u2717h-99-srgb\\U2717H-4.jpg",
+          "images\\monitors\\design\\u2717h-99-srgb\\U2717H-5.jpg"
         ],
-        "detail_images": [
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_01.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_02.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_03.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_04.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_05.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_06.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_07.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_08.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_09.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_10.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_11.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_12.jpg",
-          "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-详情页/U2717H详情2_13.jpg"
-        ],
-        "thumb": "images/monitors/design/U2717H(全面屏 99%sRGB色域 纯粹视觉)/U2717H-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\design\\u2717h-99-srgb\\U2717H-1.jpg"
       }
     ],
     "professional": [
       {
-        "name": "MAYA 4613(46英寸液晶拼接屏)",
-        "dir": "MAYA 4613(46英寸液晶拼接屏)",
+        "name": "maya-4613-46",
+        "dir": "maya-4613-46",
         "images": [
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-1.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-2.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-3.jpg"
+          "images\\monitors\\professional\\maya-4613-46\\maya-4613-1.jpg",
+          "images\\monitors\\professional\\maya-4613-46\\maya-4613-2.jpg",
+          "images\\monitors\\professional\\maya-4613-46\\maya-4613-3.jpg"
         ],
-        "detail_images": [
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_01.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_02.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_03.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_04.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_05.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_06.jpg",
-          "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-详情页/拼接屏_07.jpg"
-        ],
-        "thumb": "images/monitors/professional/MAYA 4613(46英寸液晶拼接屏)/MAYA 4613-1.jpg"
+        "detail_images": [],
+        "thumb": "images\\monitors\\professional\\maya-4613-46\\maya-4613-1.jpg"
       }
     ]
   },
   "aios": [
     {
-      "name": "KILIN 骐麟 GS24pro",
-      "dir": "KILIN 骐麟 GS24pro",
+      "name": "kilin-gs24pro",
+      "dir": "kilin-gs24pro",
       "images": [
-        "images/aios/KILIN 骐麟 GS24pro/KILIN 骐麟 GS24pro-1.jpg",
-        "images/aios/KILIN 骐麟 GS24pro/KILIN 骐麟 GS24pro-2.jpg",
-        "images/aios/KILIN 骐麟 GS24pro/KILIN 骐麟 GS24pro-3.jpg"
+        "images\\aios\\kilin-gs24pro\\kilin-gs24pro-1.jpg",
+        "images\\aios\\kilin-gs24pro\\kilin-gs24pro-2.jpg",
+        "images\\aios\\kilin-gs24pro\\kilin-gs24pro-3.jpg"
       ],
       "detail_images": [],
-      "thumb": "images/aios/KILIN 骐麟 GS24pro/KILIN 骐麟 GS24pro-1.jpg"
+      "thumb": "images\\aios\\kilin-gs24pro\\kilin-gs24pro-1.jpg"
     },
     {
-      "name": "KILIN 骐麟 XPS24M",
-      "dir": "KILIN 骐麟 XPS24M",
+      "name": "kilin-xps24m",
+      "dir": "kilin-xps24m",
       "images": [
-        "images/aios/KILIN 骐麟 XPS24M/1.jpg",
-        "images/aios/KILIN 骐麟 XPS24M/2.jpg",
-        "images/aios/KILIN 骐麟 XPS24M/3.jpg",
-        "images/aios/KILIN 骐麟 XPS24M/4.jpg",
-        "images/aios/KILIN 骐麟 XPS24M/5.jpg"
+        "images\\aios\\kilin-xps24m\\1.jpg",
+        "images\\aios\\kilin-xps24m\\2.jpg",
+        "images\\aios\\kilin-xps24m\\3.jpg",
+        "images\\aios\\kilin-xps24m\\4.jpg",
+        "images\\aios\\kilin-xps24m\\5.jpg"
       ],
       "detail_images": [],
-      "thumb": "images/aios/KILIN 骐麟 XPS24M/1.jpg"
+      "thumb": "images\\aios\\kilin-xps24m\\1.jpg"
     },
     {
-      "name": "MAYA 白鲸 GS22",
-      "dir": "MAYA 白鲸 GS22",
+      "name": "maya-silver-dragon-gs22",
+      "dir": "maya-silver-dragon-gs22",
       "images": [
-        "images/aios/MAYA 白鲸 GS22/MAYA 白鲸 GS22-1.jpg",
-        "images/aios/MAYA 白鲸 GS22/MAYA 白鲸 GS22-2.jpg",
-        "images/aios/MAYA 白鲸 GS22/MAYA 白鲸 GS22-3.jpg",
-        "images/aios/MAYA 白鲸 GS22/MAYA 白鲸 GS22-4.jpg"
+        "images\\aios\\maya-silver-dragon-gs22\\maya-gs22-1.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\maya-gs22-2.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\maya-gs22-3.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\maya-gs22-4.jpg"
       ],
       "detail_images": [
-        "images/aios/MAYA 白鲸 GS22/详情页/1.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/10.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/2.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/3.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/4.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/5.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/6.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/7.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/8.jpg",
-        "images/aios/MAYA 白鲸 GS22/详情页/9.jpg"
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\1.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\10.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\2.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\3.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\4.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\5.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\6.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\7.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\8.jpg",
+        "images\\aios\\maya-silver-dragon-gs22\\detail\\9.jpg"
       ],
-      "thumb": "images/aios/MAYA 白鲸 GS22/MAYA 白鲸 GS22-1.jpg"
+      "thumb": "images\\aios\\maya-silver-dragon-gs22\\maya-gs22-1.jpg"
     },
     {
-      "name": "MAYA 白鲸 GS24",
-      "dir": "MAYA 白鲸 GS24",
+      "name": "maya-silver-dragon-gs24",
+      "dir": "maya-silver-dragon-gs24",
       "images": [
-        "images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-1.jpg",
-        "images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-2.jpg",
-        "images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-3.jpg",
-        "images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-4.jpg"
+        "images\\aios\\maya-silver-dragon-gs24\\1.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\2.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\3.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\4.jpg"
       ],
       "detail_images": [
-        "images/aios/MAYA 白鲸 GS24/详情页/1.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/10.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/2.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/3.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/4.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/5.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/6.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/7.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/8.jpg",
-        "images/aios/MAYA 白鲸 GS24/详情页/9.jpg"
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\1.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\10.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\2.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\3.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\4.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\5.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\6.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\7.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\8.jpg",
+        "images\\aios\\maya-silver-dragon-gs24\\detail\\9.jpg"
       ],
-      "thumb": "images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-1.jpg"
+      "thumb": "images\\aios\\maya-silver-dragon-gs24\\1.jpg"
     },
     {
-      "name": "MAYA 银龙 GS22",
-      "dir": "MAYA 银龙 GS22",
+      "name": "maya-white-whale-gs22",
+      "dir": "maya-white-whale-gs22",
       "images": [
-        "images/aios/MAYA 银龙 GS22/MAYA 银龙 GS22-1.jpg",
-        "images/aios/MAYA 银龙 GS22/MAYA 银龙 GS22-2.jpg",
-        "images/aios/MAYA 银龙 GS22/MAYA 银龙 GS22-3.jpg",
-        "images/aios/MAYA 银龙 GS22/MAYA 银龙 GS22-4.jpg"
+        "images\\aios\\maya-white-whale-gs22\\maya-gs22-1.jpg",
+        "images\\aios\\maya-white-whale-gs22\\maya-gs22-2.jpg",
+        "images\\aios\\maya-white-whale-gs22\\maya-gs22-3.jpg",
+        "images\\aios\\maya-white-whale-gs22\\maya-gs22-4.jpg"
       ],
       "detail_images": [
-        "images/aios/MAYA 银龙 GS22/详情页/1.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/10.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/2.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/3.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/4.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/5.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/6.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/7.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/8.jpg",
-        "images/aios/MAYA 银龙 GS22/详情页/9.jpg"
+        "images\\aios\\maya-white-whale-gs22\\detail\\1.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\10.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\2.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\3.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\4.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\5.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\6.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\7.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\8.jpg",
+        "images\\aios\\maya-white-whale-gs22\\detail\\9.jpg"
       ],
-      "thumb": "images/aios/MAYA 银龙 GS22/MAYA 银龙 GS22-1.jpg"
+      "thumb": "images\\aios\\maya-white-whale-gs22\\maya-gs22-1.jpg"
     },
     {
-      "name": "MAYA 银龙 GS24",
-      "dir": "MAYA 银龙 GS24",
+      "name": "maya-white-whale-gs24",
+      "dir": "maya-white-whale-gs24",
       "images": [
-        "images/aios/MAYA 银龙 GS24/1.jpg",
-        "images/aios/MAYA 银龙 GS24/2.jpg",
-        "images/aios/MAYA 银龙 GS24/3.jpg",
-        "images/aios/MAYA 银龙 GS24/4.jpg"
+        "images\\aios\\maya-white-whale-gs24\\maya-gs24-1.jpg",
+        "images\\aios\\maya-white-whale-gs24\\maya-gs24-2.jpg",
+        "images\\aios\\maya-white-whale-gs24\\maya-gs24-3.jpg",
+        "images\\aios\\maya-white-whale-gs24\\maya-gs24-4.jpg"
       ],
       "detail_images": [
-        "images/aios/MAYA 银龙 GS24/详情页/1.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/10.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/2.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/3.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/4.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/5.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/6.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/7.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/8.jpg",
-        "images/aios/MAYA 银龙 GS24/详情页/9.jpg"
+        "images\\aios\\maya-white-whale-gs24\\detail\\1.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\10.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\2.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\3.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\4.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\5.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\6.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\7.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\8.jpg",
+        "images\\aios\\maya-white-whale-gs24\\detail\\9.jpg"
       ],
-      "thumb": "images/aios/MAYA 银龙 GS24/1.jpg"
+      "thumb": "images\\aios\\maya-white-whale-gs24\\maya-gs24-1.jpg"
     }
   ],
   "others": {
-    "VR类目": [
+    "vr": [
       {
-        "name": "头盔手柄",
-        "dir": "头盔手柄",
+        "name": "maya-vr-headset",
+        "dir": "maya-vr-headset",
         "images": [
-          "images/others/VR类目/头盔手柄/头盔手柄白底.jpg",
-          "images/others/VR类目/头盔手柄/头盔手柄白底2.jpg",
-          "images/others/VR类目/头盔手柄/头盔手柄白底3.jpg",
-          "images/others/VR类目/头盔手柄/头盔手柄白底4.jpg"
+          "images\\others\\vr\\maya-vr-headset\\vr-1.jpg",
+          "images\\others\\vr\\maya-vr-headset\\vr-2.jpg",
+          "images\\others\\vr\\maya-vr-headset\\vr-3.jpg",
+          "images\\others\\vr\\maya-vr-headset\\vr-4.jpg",
+          "images\\others\\vr\\maya-vr-headset\\vr-5.jpg"
+        ],
+        "detail_images": [
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-01.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-02.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-03.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-04.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-05.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-06.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-07.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-08.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-09.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-10.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-101.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-11.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-12.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-13.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-14.jpg",
+          "images\\others\\vr\\maya-vr-headset\\detail\\vr-15.jpg"
+        ],
+        "thumb": "images\\others\\vr\\maya-vr-headset\\vr-1.jpg"
+      },
+      {
+        "name": "vr-controller",
+        "dir": "vr-controller",
+        "images": [
+          "images\\others\\vr\\vr-controller\\2.jpg",
+          "images\\others\\vr\\vr-controller\\3.jpg",
+          "images\\others\\vr\\vr-controller\\4.jpg",
+          "images\\others\\vr\\vr-controller\\item.jpg"
         ],
         "detail_images": [],
-        "thumb": "images/others/VR类目/头盔手柄/头盔手柄白底.jpg"
+        "thumb": "images\\others\\vr\\vr-controller\\2.jpg"
       },
       {
-        "name": "武器大师(VR支架)",
-        "dir": "武器大师(VR支架)",
+        "name": "weapon-master-vr-stand",
+        "dir": "weapon-master-vr-stand",
         "images": [
-          "images/others/VR类目/武器大师(VR支架)/武器大师白底图.jpg",
-          "images/others/VR类目/武器大师(VR支架)/武器大师白底图2.jpg",
-          "images/others/VR类目/武器大师(VR支架)/武器大师白底图3.jpg",
-          "images/others/VR类目/武器大师(VR支架)/武器大师白底图4.jpg",
-          "images/others/VR类目/武器大师(VR支架)/武器大师白底图5.jpg"
+          "images\\others\\vr\\weapon-master-vr-stand\\2.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\3.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\4.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\5.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\item.jpg"
         ],
         "detail_images": [
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_01.jpg",
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_02.jpg",
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_03.jpg",
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_04.jpg",
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_05.jpg",
-          "images/others/VR类目/武器大师(VR支架)/详情页/武器大师详情页_06.jpg"
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\01.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\02.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\03.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\04.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\05.jpg",
+          "images\\others\\vr\\weapon-master-vr-stand\\detail\\06.jpg"
         ],
-        "thumb": "images/others/VR类目/武器大师(VR支架)/武器大师白底图.jpg"
-      },
-      {
-        "name": "玛雅VR头盔",
-        "dir": "玛雅VR头盔",
-        "images": [
-          "images/others/VR类目/玛雅VR头盔/VR主图-1.jpg",
-          "images/others/VR类目/玛雅VR头盔/VR主图-2.jpg",
-          "images/others/VR类目/玛雅VR头盔/VR主图-3.jpg",
-          "images/others/VR类目/玛雅VR头盔/VR主图-4.jpg",
-          "images/others/VR类目/玛雅VR头盔/VR主图-5.jpg"
-        ],
-        "detail_images": [
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_01.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_02.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_03.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_04.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_05.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_06.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_07.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_08.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_09.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_10.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_101.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_11.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_12.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_13.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_14.jpg",
-          "images/others/VR类目/玛雅VR头盔/详情页/VR新版描述_15.jpg"
-        ],
-        "thumb": "images/others/VR类目/玛雅VR头盔/VR主图-1.jpg"
+        "thumb": "images\\others\\vr\\weapon-master-vr-stand\\2.jpg"
       }
     ],
-    "插座类目": [
+    "sockets": [
       {
-        "name": "maya品牌",
-        "dir": "maya品牌",
+        "name": "kilin",
+        "dir": "kilin",
         "images": [],
         "detail_images": [],
         "thumb": ""
       },
       {
-        "name": "骐麟品牌",
-        "dir": "骐麟品牌",
+        "name": "maya",
+        "dir": "maya",
         "images": [],
         "detail_images": [],
         "thumb": ""
       }
     ],
-    "笔记本电脑类目": [
+    "laptops": [
       {
-        "name": "KILIN 骐麟 FZ-YH5722",
-        "dir": "KILIN 骐麟 FZ-YH5722",
+        "name": "kilin-fz-yh5722",
+        "dir": "kilin-fz-yh5722",
         "images": [
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5722/KILIN 骐麟 FZ-YH5722-1.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5722/KILIN 骐麟 FZ-YH5722-2.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5722/KILIN 骐麟 FZ-YH5722-3.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5722/KILIN 骐麟 FZ-YH5722-4.jpg"
+          "images\\others\\laptops\\kilin-fz-yh5722\\kilin-fz-yh5722-1.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5722\\kilin-fz-yh5722-2.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5722\\kilin-fz-yh5722-3.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5722\\kilin-fz-yh5722-4.jpg"
         ],
         "detail_images": [],
-        "thumb": "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5722/KILIN 骐麟 FZ-YH5722-1.jpg"
+        "thumb": "images\\others\\laptops\\kilin-fz-yh5722\\kilin-fz-yh5722-1.jpg"
       },
       {
-        "name": "KILIN 骐麟 FZ-YH5731",
-        "dir": "KILIN 骐麟 FZ-YH5731",
+        "name": "kilin-fz-yh5731",
+        "dir": "kilin-fz-yh5731",
         "images": [
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5731/KILIN 骐麟 FZ-YH5731-1.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5731/KILIN 骐麟 FZ-YH5731-2.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5731/KILIN 骐麟 FZ-YH5731-3.jpg",
-          "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5731/KILIN 骐麟 FZ-YH5731-4.jpg"
+          "images\\others\\laptops\\kilin-fz-yh5731\\kilin-fz-yh5731-1.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5731\\kilin-fz-yh5731-2.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5731\\kilin-fz-yh5731-3.jpg",
+          "images\\others\\laptops\\kilin-fz-yh5731\\kilin-fz-yh5731-4.jpg"
         ],
         "detail_images": [],
-        "thumb": "images/others/笔记本电脑类目/KILIN 骐麟 FZ-YH5731/KILIN 骐麟 FZ-YH5731-1.jpg"
+        "thumb": "images\\others\\laptops\\kilin-fz-yh5731\\kilin-fz-yh5731-1.jpg"
       }
     ]
   }

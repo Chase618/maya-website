@@ -109,9 +109,9 @@ function getCategoryLabel(cat, sub) {
     },
     aios: { '': '一体机' },
     others: {
-      'VR类目': 'VR产品',
-      '插座类目': '插座/转换器',
-      '笔记本电脑类目': '笔记本电脑'
+      vr: 'VR设备',
+      sockets: '插座/转换器',
+      laptops: '笔记本电脑'
     }
   };
   return (labels[cat] && labels[cat][sub]) || '';
