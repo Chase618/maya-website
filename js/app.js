@@ -119,11 +119,10 @@ function getCategoryLabel(cat, sub) {
 
 // ========== Hero image selector ==========
 function getHeroImage(cat) {
-  // Pick a good hero image from the category
   const map = {
-    monitors: 'images/monitors/commercial/Air 24(Air系列24英寸显示器)/AIR 24-1白底图.jpg',
-    aios: 'images/aios/MAYA 白鲸 GS24/MAYA 白鲸 GS24-1.jpg',
-    others: 'images/others/VR类目/玛雅VR头盔/VR主图-1.jpg'
+    monitors: 'images/monitors/commercial/air-24-air24/1.jpg',
+    aios: 'images/aios/maya-white-whale-gs24/maya-gs24-1.jpg',
+    others: 'images/others/vr/maya-vr-headset/1.jpg'
   };
   return map[cat] || '';
 }
