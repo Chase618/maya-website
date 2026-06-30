@@ -94,7 +94,10 @@ function productUrl(p) {
 
 // ========== Render product cards in a grid ==========
 function renderProductGrid(container, products) {
-  if (!container || !products.length) return;
+  if (!container || !products.length) {
+    console.warn('renderProductGrid: no products or no container', { container, count: products?.length });
+    return;
+  }
 
   container.innerHTML = products.map(p => {
     const thumb = img(p.thumb || p.images[0]);
@@ -102,7 +105,7 @@ function renderProductGrid(container, products) {
     const tag = getCategoryLabel(p.category, p.subCategory);
     const displayName = p.display_name || p.name;
     return `
-      <div class="product-card fade-in" onclick="location.href='${url}'">
+      <div class="product-card" onclick="location.href='${url}'">
         <div class="product-card-image">
           <img src="${thumb}" alt="${displayName}" loading="lazy">
         </div>
@@ -113,9 +116,6 @@ function renderProductGrid(container, products) {
       </div>
     `;
   }).join('');
-
-  // Trigger fade-in
-  setTimeout(() => observeFadeIns(), 100);
 }
 
 // ========== Category label mapping ==========

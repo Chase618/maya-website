@@ -49,33 +49,39 @@
 <script src="../js/app.js"></script>
 <script>
 (async function() {
-  const data = await loadProducts();
-  const grid = document.getElementById('productGrid');
-  const tabs = document.getElementById('subTabs');
-  const others = data.others || {};
+  try {
+    const data = await loadProducts();
+    const grid = document.getElementById('productGrid');
+    const tabs = document.getElementById('subTabs');
+    const others = data.others || {};
 
-  function getProducts(filter) {
-    let all = [];
-    for (const [sub, prods] of Object.entries(others)) {
-      if (filter === 'all' || filter === sub) {
-        all = all.concat(prods.map(p => ({...p, category: 'others', subCategory: sub})));
+    function getProducts(filter) {
+      let all = [];
+      for (const [sub, prods] of Object.entries(others)) {
+        if (filter === 'all' || filter === sub) {
+          all = all.concat(prods.map(p => ({...p, category: 'others', subCategory: sub})));
+        }
       }
+      console.log(`Others "${filter}": ${all.length} items`);
+      return all;
     }
-    return all;
+
+    function render(filter) {
+      renderProductGrid(grid, getProducts(filter));
+    }
+
+    render('all');
+
+    tabs.addEventListener('click', (e) => {
+      if (!e.target.classList.contains('sub-tab')) return;
+      tabs.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+      e.target.classList.add('active');
+      render(e.target.dataset.tab);
+    });
+  } catch (err) {
+    console.error('Failed to load products:', err);
+    document.getElementById('productGrid').innerHTML = '<p style="padding:40px;text-align:center;color:red;">加载失败: ' + err.message + '</p>';
   }
-
-  function render(filter) {
-    renderProductGrid(grid, getProducts(filter));
-  }
-
-  render('all');
-
-  tabs.addEventListener('click', (e) => {
-    if (!e.target.classList.contains('sub-tab')) return;
-    tabs.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
-    e.target.classList.add('active');
-    render(e.target.dataset.tab);
-  });
 })();
 </script>
 </body>

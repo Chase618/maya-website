@@ -50,34 +50,42 @@
 <script src="../js/app.js"></script>
 <script>
 (async function() {
-  const data = await loadProducts();
-  const grid = document.getElementById('productGrid');
-  const tabs = document.getElementById('subTabs');
+  try {
+    const data = await loadProducts();
+    console.log('Loaded products:', Object.keys(data));
+    const grid = document.getElementById('productGrid');
+    const tabs = document.getElementById('subTabs');
 
-  const monitors = data.monitors || {};
+    const monitors = data.monitors || {};
+    console.log('Monitor subcategories:', Object.keys(monitors));
 
-  function getProducts(filter) {
-    let all = [];
-    for (const [sub, prods] of Object.entries(monitors)) {
-      if (filter === 'all' || filter === sub) {
-        all = all.concat(prods.map(p => ({...p, category: 'monitors', subCategory: sub})));
+    function getProducts(filter) {
+      let all = [];
+      for (const [sub, prods] of Object.entries(monitors)) {
+        if (filter === 'all' || filter === sub) {
+          all = all.concat(prods.map(p => ({...p, category: 'monitors', subCategory: sub})));
+        }
       }
+      console.log(`getProducts("${filter}"): ${all.length} items`);
+      return all;
     }
-    return all;
+
+    function render(filter) {
+      renderProductGrid(grid, getProducts(filter));
+    }
+
+    render('all');
+
+    tabs.addEventListener('click', (e) => {
+      if (!e.target.classList.contains('sub-tab')) return;
+      tabs.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
+      e.target.classList.add('active');
+      render(e.target.dataset.tab);
+    });
+  } catch (err) {
+    console.error('Failed to load products:', err);
+    document.getElementById('productGrid').innerHTML = '<p style="padding:40px;text-align:center;color:red;">加载失败: ' + err.message + '</p>';
   }
-
-  function render(filter) {
-    renderProductGrid(grid, getProducts(filter));
-  }
-
-  render('all');
-
-  tabs.addEventListener('click', (e) => {
-    if (!e.target.classList.contains('sub-tab')) return;
-    tabs.querySelectorAll('.sub-tab').forEach(t => t.classList.remove('active'));
-    e.target.classList.add('active');
-    render(e.target.dataset.tab);
-  });
 })();
 </script>
 </body>
