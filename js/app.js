@@ -3,7 +3,11 @@
 // Utility: get image URL relative to project root
 function img(path) {
   if (!path) return '';
-  return path.replace(/^images\//, '');
+  // Ensure path starts with / for absolute resolution from any page
+  if (path.startsWith('images/')) {
+    return '/' + path;
+  }
+  return path;
 }
 
 // Utility: slug from name (keeps Chinese chars for uniqueness, modern browsers handle UTF-8 URLs)
