@@ -14,7 +14,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-20-air19-53/air-20-1.jpg",
-        "display_name": "Air 20 (Air系列19.53英寸显示器)"
+        "display_name": "Air 20 (Air系列19.53英寸显示器)",
+        "page_url": "monitors/commercial/air-20-air19-53.html"
       },
       {
         "name": "air-22-air21-5",
@@ -29,7 +30,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-22-air21-5/air-22-1.jpg",
-        "display_name": "Air 22 (Air系列21.5英寸显示器)"
+        "display_name": "Air 22 (Air系列21.5英寸显示器)",
+        "page_url": "monitors/commercial/air-22-air21-5.html"
       },
       {
         "name": "air-22-plus-air21-5",
@@ -44,7 +46,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-22-plus-air21-5/air-22-plus-2.jpg",
-        "display_name": "Air 22 Plus (Air系列21.5英寸显示器)"
+        "display_name": "Air 22 Plus (Air系列21.5英寸显示器)",
+        "page_url": "monitors/commercial/air-22-plus-air21-5.html"
       },
       {
         "name": "air-24-air24",
@@ -60,7 +63,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-24-air24/1.jpg",
-        "display_name": "Air 24 (Air系列24英寸显示器)"
+        "display_name": "Air 24 (Air系列24英寸显示器)",
+        "page_url": "monitors/commercial/air-24-air24.html"
       },
       {
         "name": "air-24-plus-air23-8",
@@ -74,7 +78,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-24-plus-air23-8/air-24-plus-1.jpg",
-        "display_name": "Air 24 Plus (Air系列23.8英寸显示器)"
+        "display_name": "Air 24 Plus (Air系列23.8英寸显示器)",
+        "page_url": "monitors/commercial/air-24-plus-air23-8.html"
       },
       {
         "name": "air-24-pro-23-8",
@@ -86,7 +91,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-24-pro-23-8/air24-pro-1.jpg",
-        "display_name": "Air 24 Pro (商用23.8英寸显示器)"
+        "display_name": "Air 24 Pro (商用23.8英寸显示器)",
+        "page_url": "monitors/commercial/air-24-pro-23-8.html"
       },
       {
         "name": "air-240c-23-6",
@@ -101,7 +107,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-240c-23-6/air-240c-1.jpg",
-        "display_name": "Air 240C (商用23.6英寸显示器)"
+        "display_name": "Air 240C (商用23.6英寸显示器)",
+        "page_url": "monitors/commercial/air-240c-23-6.html"
       },
       {
         "name": "air-27-pro-27",
@@ -114,7 +121,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/commercial/air-27-pro-27/air-27pro-2.jpg",
-        "display_name": "Air 27 Pro (商用27英寸显示器)"
+        "display_name": "Air 27 Pro (商用27英寸显示器)",
+        "page_url": "monitors/commercial/air-27-pro-27.html"
       }
     ],
     "gaming": [
@@ -131,7 +139,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g27q-27-144hz/7G27Q-1.jpg",
-        "display_name": "7G27Q (27英寸-144Hz电竞显示器)"
+        "display_name": "7G27Q (27英寸-144Hz电竞显示器)",
+        "page_url": "monitors/gaming/7g27q-27-144hz.html"
       },
       {
         "name": "7g32-31-5",
@@ -146,7 +155,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g32-31-5/7G32-1.jpg",
-        "display_name": "7G32 (31.5英寸-吃鸡电竞显示器)"
+        "display_name": "7G32 (31.5英寸-吃鸡电竞显示器)",
+        "page_url": "monitors/gaming/7g32-31-5.html"
       },
       {
         "name": "7g32s-31-5-165hz",
@@ -161,7 +171,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g32s-31-5-165hz/7g32s1.jpg",
-        "display_name": "7G32S (31.5英寸-165Hz曲面电竞显示器)"
+        "display_name": "7G32S (31.5英寸-165Hz曲面电竞显示器)",
+        "page_url": "monitors/gaming/7g32s-31-5-165hz.html"
       },
       {
         "name": "7g33q-31-5-144hz",
@@ -174,7 +185,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g33q-31-5-144hz/7G33Q-1.jpg",
-        "display_name": "7G33Q (31.5英寸-144Hz曲面电竞显示器)"
+        "display_name": "7G33Q (31.5英寸-144Hz曲面电竞显示器)",
+        "page_url": "monitors/gaming/7g33q-31-5-144hz.html"
       },
       {
         "name": "7g33s-31-5-165hz",
@@ -187,7 +199,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g33s-31-5-165hz/7G33S-1.jpg",
-        "display_name": "7G33S (31.5英寸-165Hz曲面电竞显示器)"
+        "display_name": "7G33S (31.5英寸-165Hz曲面电竞显示器)",
+        "page_url": "monitors/gaming/7g33s-31-5-165hz.html"
       },
       {
         "name": "7g40-38-5-144hz",
@@ -202,7 +215,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g40-38-5-144hz/7g40.jpg",
-        "display_name": "7G40 (38.5英寸-144Hz吃鸡电竞显示器)"
+        "display_name": "7G40 (38.5英寸-144Hz吃鸡电竞显示器)",
+        "page_url": "monitors/gaming/7g40-38-5-144hz.html"
       },
       {
         "name": "7g40g-38-5-144hz",
@@ -216,7 +230,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/7g40g-38-5-144hz/7G40G-1.jpg",
-        "display_name": "7G40G (38.5英寸-144Hz曲面电竞显示器)"
+        "display_name": "7G40G (38.5英寸-144Hz曲面电竞显示器)",
+        "page_url": "monitors/gaming/7g40g-38-5-144hz.html"
       },
       {
         "name": "air-27q-27-ips",
@@ -231,7 +246,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-27q-27-ips/air-27q-1.jpg",
-        "display_name": "Air 27Q (27英寸-IPS镜面电竞显示器)"
+        "display_name": "Air 27Q (27英寸-IPS镜面电竞显示器)",
+        "page_url": "monitors/gaming/air-27q-27-ips.html"
       },
       {
         "name": "air-32b-31-5",
@@ -245,7 +261,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-32b-31-5/air32b.jpg",
-        "display_name": "Air 32B (31.5英寸-纤薄电竞显示器)"
+        "display_name": "Air 32B (31.5英寸-纤薄电竞显示器)",
+        "page_url": "monitors/gaming/air-32b-31-5.html"
       },
       {
         "name": "air-32qb-31-5",
@@ -259,7 +276,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-32qb-31-5/air32qb.jpg",
-        "display_name": "Air 32QB (31.5英寸-超薄电竞显示器)"
+        "display_name": "Air 32QB (31.5英寸-超薄电竞显示器)",
+        "page_url": "monitors/gaming/air-32qb-31-5.html"
       },
       {
         "name": "air-32s-31-5-1800r",
@@ -272,7 +290,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-32s-31-5-1800r/air-32s-1.jpg",
-        "display_name": "Air 32S (31.5英寸-1800R曲率电竞显示器)"
+        "display_name": "Air 32S (31.5英寸-1800R曲率电竞显示器)",
+        "page_url": "monitors/gaming/air-32s-31-5-1800r.html"
       },
       {
         "name": "air-40g-38-5-3000r",
@@ -286,7 +305,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-40g-38-5-3000r/air-40g-1.jpg",
-        "display_name": "Air 40G (38.5英寸-3000R曲率电竞显示器)"
+        "display_name": "Air 40G (38.5英寸-3000R曲率电竞显示器)",
+        "page_url": "monitors/gaming/air-40g-38-5-3000r.html"
       },
       {
         "name": "air-40r-38-5",
@@ -301,7 +321,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-40r-38-5/air40r-1.jpg",
-        "display_name": "Air 40R (38.5英寸-超大屏率电竞显示器)"
+        "display_name": "Air 40R (38.5英寸-超大屏率电竞显示器)",
+        "page_url": "monitors/gaming/air-40r-38-5.html"
       },
       {
         "name": "air-40rb-38-5",
@@ -315,7 +336,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/gaming/air-40rb-38-5/air-40rb-1.jpg",
-        "display_name": "Air 40RB (38.5英寸-超大屏电竞显示器)"
+        "display_name": "Air 40RB (38.5英寸-超大屏电竞显示器)",
+        "page_url": "monitors/gaming/air-40rb-38-5.html"
       }
     ],
     "design": [
@@ -330,7 +352,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/design/q32/Q32-1.jpg",
-        "display_name": "Q32 (色彩狂魔 量子点显示器)"
+        "display_name": "Q32 (色彩狂魔 量子点显示器)",
+        "page_url": "monitors/design/q32.html"
       },
       {
         "name": "u2717h-99-srgb",
@@ -344,7 +367,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/design/u2717h-99-srgb/U2717H-1.jpg",
-        "display_name": "U2717H (全面屏 99%sRGB色域)"
+        "display_name": "U2717H (全面屏 99%sRGB色域)",
+        "page_url": "monitors/design/u2717h-99-srgb.html"
       }
     ],
     "professional": [
@@ -358,7 +382,8 @@
         ],
         "detail_images": [],
         "thumb": "images/monitors/professional/maya-4613-46/maya-4613-1.jpg",
-        "display_name": "MAYA 4613 (46英寸液晶拼接屏)"
+        "display_name": "MAYA 4613 (46英寸液晶拼接屏)",
+        "page_url": "monitors/professional/maya-4613-46.html"
       }
     ]
   },
@@ -373,7 +398,8 @@
       ],
       "detail_images": [],
       "thumb": "images/aios/kilin-gs24pro/kilin-gs24pro-1.jpg",
-      "display_name": "KILIN 骐麟 GS24pro"
+      "display_name": "KILIN 骐麟 GS24pro",
+      "page_url": "aios/kilin-gs24pro.html"
     },
     {
       "name": "kilin-xps24m",
@@ -387,7 +413,8 @@
       ],
       "detail_images": [],
       "thumb": "images/aios/kilin-xps24m/1.jpg",
-      "display_name": "KILIN 骐麟 XPS24M"
+      "display_name": "KILIN 骐麟 XPS24M",
+      "page_url": "aios/kilin-xps24m.html"
     },
     {
       "name": "maya-silver-dragon-gs22",
@@ -411,7 +438,8 @@
         "images/aios/maya-silver-dragon-gs22/detail/9.jpg"
       ],
       "thumb": "images/aios/maya-silver-dragon-gs22/maya-gs22-1.jpg",
-      "display_name": "MAYA 银龙 GS22"
+      "display_name": "MAYA 银龙 GS22",
+      "page_url": "aios/maya-silver-dragon-gs22.html"
     },
     {
       "name": "maya-silver-dragon-gs24",
@@ -435,7 +463,8 @@
         "images/aios/maya-silver-dragon-gs24/detail/9.jpg"
       ],
       "thumb": "images/aios/maya-silver-dragon-gs24/1.jpg",
-      "display_name": "MAYA 银龙 GS24"
+      "display_name": "MAYA 银龙 GS24",
+      "page_url": "aios/maya-silver-dragon-gs24.html"
     },
     {
       "name": "maya-white-whale-gs22",
@@ -459,7 +488,8 @@
         "images/aios/maya-white-whale-gs22/detail/9.jpg"
       ],
       "thumb": "images/aios/maya-white-whale-gs22/maya-gs22-1.jpg",
-      "display_name": "MAYA 白鲸 GS22"
+      "display_name": "MAYA 白鲸 GS22",
+      "page_url": "aios/maya-white-whale-gs22.html"
     },
     {
       "name": "maya-white-whale-gs24",
@@ -483,7 +513,8 @@
         "images/aios/maya-white-whale-gs24/detail/9.jpg"
       ],
       "thumb": "images/aios/maya-white-whale-gs24/maya-gs24-1.jpg",
-      "display_name": "MAYA 白鲸 GS24"
+      "display_name": "MAYA 白鲸 GS24",
+      "page_url": "aios/maya-white-whale-gs24.html"
     }
   ],
   "others": {
@@ -517,7 +548,8 @@
           "images/others/vr/maya-vr-headset/detail/vr-15.jpg"
         ],
         "thumb": "images/others/vr/maya-vr-headset/vr-1.jpg",
-        "display_name": "玛雅VR头盔"
+        "display_name": "玛雅VR头盔",
+        "page_url": "others/vr/maya-vr-headset.html"
       },
       {
         "name": "vr-controller",
@@ -530,7 +562,8 @@
         ],
         "detail_images": [],
         "thumb": "images/others/vr/vr-controller/2.jpg",
-        "display_name": "VR头盔手柄"
+        "display_name": "VR头盔手柄",
+        "page_url": "others/vr/vr-controller.html"
       },
       {
         "name": "weapon-master-vr-stand",
@@ -551,23 +584,1114 @@
           "images/others/vr/weapon-master-vr-stand/detail/06.jpg"
         ],
         "thumb": "images/others/vr/weapon-master-vr-stand/item.jpg",
-        "display_name": "武器大师 (VR支架)"
+        "display_name": "武器大师 (VR支架)",
+        "page_url": "others/vr/weapon-master-vr-stand.html"
       }
     ],
     "sockets": [
       {
-        "name": "kilin",
-        "dir": "kilin",
-        "images": [],
-        "detail_images": [],
-        "thumb": ""
+        "name": "SY16-11",
+        "dir": "SY16-11",
+        "display_name": "Sy16 11",
+        "brand": "KILIN",
+        "images": [
+          "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-1.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-2.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-3.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-4.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/1.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/2.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/3.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/4.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/5.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/6.jpg",
+          "images/others/sockets/kilin/high-power-series/SY16-11/detail/7.jpg"
+        ],
+        "thumb": "images/others/sockets/kilin/high-power-series/SY16-11/SY16-11-1.jpg",
+        "page_url": "others/sockets/SY16-11.html"
       },
       {
-        "name": "maya",
-        "dir": "maya",
-        "images": [],
+        "name": "sy-16-10",
+        "dir": "sy-16-10",
+        "display_name": "Sy 16 10",
+        "brand": "KILIN",
+        "images": [
+          "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-1.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-2.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-3.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-4.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/1.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/10.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/11.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/2.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/3.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/4.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/5.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/6.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/7.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/8.jpg",
+          "images/others/sockets/kilin/high-power-series/sy-16-10/detail/9.jpg"
+        ],
+        "thumb": "images/others/sockets/kilin/high-power-series/sy-16-10/sy-16-10-1.jpg",
+        "page_url": "others/sockets/sy-16-10.html"
+      },
+      {
+        "name": "SY-T122",
+        "dir": "SY-T122",
+        "display_name": "Sy T122",
+        "brand": "KILIN",
+        "images": [
+          "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/5.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/6.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/7.jpg",
+          "images/others/sockets/kilin/home-office-series/SY-T122/detail/8.jpg"
+        ],
+        "thumb": "images/others/sockets/kilin/home-office-series/SY-T122/SY-T122-1.jpg",
+        "page_url": "others/sockets/SY-T122.html"
+      },
+      {
+        "name": "SY1-2N",
+        "dir": "SY1-2N",
+        "display_name": "Sy1 2N",
+        "brand": "KILIN",
+        "images": [
+          "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/10.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/11.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/5.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/6.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/7.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/8.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-2N/detail/9.jpg"
+        ],
+        "thumb": "images/others/sockets/kilin/home-office-series/SY1-2N/SY1-2N-1.jpg",
+        "page_url": "others/sockets/SY1-2N.html"
+      },
+      {
+        "name": "SY1-4MF",
+        "dir": "SY1-4MF",
+        "display_name": "Sy1 4Mf",
+        "brand": "KILIN",
+        "images": [
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/1.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/10.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/11.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/12.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/2.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/3.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/4.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/5.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/6.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/7.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/8.jpg",
+          "images/others/sockets/kilin/home-office-series/SY1-4MF/detail/9.jpg"
+        ],
+        "thumb": "images/others/sockets/kilin/home-office-series/SY1-4MF/SY1-4MF-1.jpg",
+        "page_url": "others/sockets/SY1-4MF.html"
+      },
+      {
+        "name": "SY-222D",
+        "dir": "SY-222D",
+        "display_name": "Sy 222D",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-1.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-2.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-3.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-4.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-5.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-01.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-02.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-03.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-04.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-05.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-06.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-07.jpg",
+          "images/others/sockets/maya/maya-high-power/SY-222D/detail/sy-222d-08.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-high-power/SY-222D/SY-222D-1.jpg",
+        "page_url": "others/sockets/SY-222D.html"
+      },
+      {
+        "name": "SY16-11",
+        "dir": "SY16-11",
+        "display_name": "Sy16 11",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-1.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-2.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-3.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-4.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-5.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-01.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-02.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-03.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-04.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-05.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-06.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-11/detail/sy16-11-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-high-power/SY16-11/SY16-11-1.jpg",
+        "page_url": "others/sockets/SY16-11.html"
+      },
+      {
+        "name": "SY16-2",
+        "dir": "SY16-2",
+        "display_name": "Sy16 2",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-1.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-2.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-3.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-4.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/1.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/2.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/3.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/4.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/5.jpg",
+          "images/others/sockets/maya/maya-high-power/SY16-2/detail/6.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-high-power/SY16-2/SY16-2-1.jpg",
+        "page_url": "others/sockets/SY16-2.html"
+      },
+      {
+        "name": "F102",
+        "dir": "F102",
+        "display_name": "F102",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F102/F102-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/F102-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/F102-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/F102-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/F102-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/10.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/11.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F102/detail/12.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/F102/F102-1.jpg",
+        "page_url": "others/sockets/F102.html"
+      },
+      {
+        "name": "F103",
+        "dir": "F103",
+        "display_name": "F103",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F103/F103-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F103/F103-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F103/F103-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F103/F103-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F103/F103-5.jpg"
+        ],
         "detail_images": [],
-        "thumb": ""
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/F103/F103-1.jpg",
+        "page_url": "others/sockets/F103.html"
+      },
+      {
+        "name": "F105",
+        "dir": "F105",
+        "display_name": "F105",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-5.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-6.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-7.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/F105-8.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105/detail/F105_10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/F105/F105-1.jpg",
+        "page_url": "others/sockets/F105.html"
+      },
+      {
+        "name": "F105USB",
+        "dir": "F105USB",
+        "display_name": "F105Usb",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-5.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-6.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-7.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-8.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_10.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F105USB/detail/F105USB_11.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/F105USB/F105USB-1.jpg",
+        "page_url": "others/sockets/F105USB.html"
+      },
+      {
+        "name": "F108",
+        "dir": "F108",
+        "display_name": "F108",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F108/F108-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/F108-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/F108-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/F108-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/F108-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-10.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-11.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-12.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-13.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/F108/detail/f108-14.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/F108/F108-1.jpg",
+        "page_url": "others/sockets/F108.html"
+      },
+      {
+        "name": "SY1-4N",
+        "dir": "SY1-4N",
+        "display_name": "Sy1 4N",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-3.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-4.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-10.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-11.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-12.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/detail/sy1-4n-13.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/SY1-4N/SY1-4N-1.jpg",
+        "page_url": "others/sockets/SY1-4N.html"
+      },
+      {
+        "name": "f102-f103",
+        "dir": "f102-f103",
+        "display_name": "F102 F103",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/f102-f103-1.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/f102-f103-2.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/f102-f103-3.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-01.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-02.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-03.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-04.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-05.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-06.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-07.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-08.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-09.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-10.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-11.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-12.jpg",
+          "images/others/sockets/maya/maya-home-multi-plug/f102-f103/detail/f102-f103-13.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-home-multi-plug/f102-f103/f102-f103-1.jpg",
+        "page_url": "others/sockets/f102-f103.html"
+      },
+      {
+        "name": "F106USB",
+        "dir": "F106USB",
+        "display_name": "F106Usb",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_01.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_02.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_03.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_04.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_05.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_06.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_07.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_08.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_09.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_10.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_11.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_12.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_13.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_14.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_15.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_16.jpg",
+          "images/others/sockets/maya/maya-power-strip/F106USB/detail/F106USB_17.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/F106USB/F106USB-1.jpg",
+        "page_url": "others/sockets/F106USB.html"
+      },
+      {
+        "name": "F208",
+        "dir": "F208",
+        "display_name": "F208",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/F208/F208-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208/F208-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208/F208-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208/F208-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208/F208-5.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208/F208-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/F208/detail/f208.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/F208/F208-1.jpg",
+        "page_url": "others/sockets/F208.html"
+      },
+      {
+        "name": "F208-USB",
+        "dir": "F208-USB",
+        "display_name": "F208 Usb",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-5.jpg",
+          "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/F208-USB/detail/f208usb.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/F208-USB/F208USB-1.jpg",
+        "page_url": "others/sockets/F208-USB.html"
+      },
+      {
+        "name": "H112",
+        "dir": "H112",
+        "display_name": "H112",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/H112/H112-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/H112-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/H112-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/H112-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/H112-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_01.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_02.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_03.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_04.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_05.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_06.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_07.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_08.jpg",
+          "images/others/sockets/maya/maya-power-strip/H112/detail/H112_09.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/H112/H112-1.jpg",
+        "page_url": "others/sockets/H112.html"
+      },
+      {
+        "name": "P102U",
+        "dir": "P102U",
+        "display_name": "P102U",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/P102U/P102U-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/P102U-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/P102U-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/P102U-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-01.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-02.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-03.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-04.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-05.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-06.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-07.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-08.jpg",
+          "images/others/sockets/maya/maya-power-strip/P102U/detail/p102u-09.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/P102U/P102U-1.jpg",
+        "page_url": "others/sockets/P102U.html"
+      },
+      {
+        "name": "SY-T122",
+        "dir": "SY-T122",
+        "display_name": "Sy T122",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-5.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-01.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-02.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-03.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-04.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-05.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-06.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-07.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T122/detail/sy-t122-08.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/SY-T122/SY-T122-1.jpg",
+        "page_url": "others/sockets/SY-T122.html"
+      },
+      {
+        "name": "SY-T208",
+        "dir": "SY-T208",
+        "display_name": "Sy T208",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-5.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-01.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-02.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-03.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-04.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-05.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T208/detail/sy-t208-06.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/SY-T208/SY-T208-1.jpg",
+        "page_url": "others/sockets/SY-T208.html"
+      },
+      {
+        "name": "SY-T233",
+        "dir": "SY-T233",
+        "display_name": "Sy T233",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/SY-T233/detail/sy-t233-01.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/detail/sy-t233-02.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/detail/sy-t233-03.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/detail/sy-t233-04.jpg",
+          "images/others/sockets/maya/maya-power-strip/SY-T233/detail/sy-t233-05.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/SY-T233/SY-T233-1.jpg",
+        "page_url": "others/sockets/SY-T233.html"
+      },
+      {
+        "name": "f106usb-f102",
+        "dir": "f106usb-f102",
+        "display_name": "F106Usb F102",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/f106usb-f102-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/f106usb-f102-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/f106usb-f102-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/f106usb-f102-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-01.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-02.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-03.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-04.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-05.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-06.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-07.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-08.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-09.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-10.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-11.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-12.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-13.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-14.jpg",
+          "images/others/sockets/maya/maya-power-strip/f106usb-f102/detail/f102-f106u-15.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/f106usb-f102/f106usb-f102-1.jpg",
+        "page_url": "others/sockets/f106usb-f102.html"
+      },
+      {
+        "name": "f602ud",
+        "dir": "f602ud",
+        "display_name": "F602Ud",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/f602ud/f602ud-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/f602ud-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/f602ud-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/f602ud-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/01.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/02.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/03.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/04.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/05.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/06.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/07.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/08.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/09.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud/detail/10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/f602ud/f602ud-1.jpg",
+        "page_url": "others/sockets/f602ud.html"
+      },
+      {
+        "name": "f602ud-1",
+        "dir": "f602ud-1",
+        "display_name": "F602Ud 1",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/f602ud-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/f602ud-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/f602ud-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/f602ud-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/01.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/02.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/03.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/04.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/05.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/06.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/07.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/08.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/09.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/10.jpg",
+          "images/others/sockets/maya/maya-power-strip/f602ud-1/detail/11.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/f602ud-1/f602ud-1.jpg",
+        "page_url": "others/sockets/f602ud-1.html"
+      },
+      {
+        "name": "f603ud",
+        "dir": "f603ud",
+        "display_name": "F603Ud",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/f603ud/f603ud-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/f603ud-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/f603ud-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/f603ud-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/01.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/02.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/03.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/04.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/05.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/06.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/07.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/08.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/09.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud/detail/10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/f603ud/f603ud-1.jpg",
+        "page_url": "others/sockets/f603ud.html"
+      },
+      {
+        "name": "f603ud-1",
+        "dir": "f603ud-1",
+        "display_name": "F603Ud 1",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/f603ud-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/f603ud-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/f603ud-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/f603ud-4.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/01.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/02.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/03.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/04.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/05.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/06.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/07.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/08.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/09.jpg",
+          "images/others/sockets/maya/maya-power-strip/f603ud-1/detail/10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/f603ud-1/f603ud-1.jpg",
+        "page_url": "others/sockets/f603ud-1.html"
+      },
+      {
+        "name": "h112-4-8m",
+        "dir": "h112-4-8m",
+        "display_name": "H112 4 8M",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-1.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-2.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-3.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-4.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-5.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_01.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_02.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_03.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_04.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_05.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_06.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_07.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_08.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_09.jpg",
+          "images/others/sockets/maya/maya-power-strip/h112-4-8m/detail/H112(4.8m)_10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-power-strip/h112-4-8m/H112(4.8m)-1.jpg",
+        "page_url": "others/sockets/h112-4-8m.html"
+      },
+      {
+        "name": "F8-A",
+        "dir": "F8-A",
+        "display_name": "F8 A",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-A/detail/f8-a-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/F8-A/F8-A-1.jpg",
+        "page_url": "others/sockets/F8-A.html"
+      },
+      {
+        "name": "F8-AU",
+        "dir": "F8-AU",
+        "display_name": "F8 Au",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-AU/detail/f8-au-06.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/F8-AU/F8-AU-1.jpg",
+        "page_url": "others/sockets/F8-AU.html"
+      },
+      {
+        "name": "F8-E",
+        "dir": "F8-E",
+        "display_name": "F8 E",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-E/detail/f8-e-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/F8-E/F8-E-1.jpg",
+        "page_url": "others/sockets/F8-E.html"
+      },
+      {
+        "name": "F8-G",
+        "dir": "F8-G",
+        "display_name": "F8 G",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/F8-G/detail/f8-g-06.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/F8-G/F8-G-1.jpg",
+        "page_url": "others/sockets/F8-G.html"
+      },
+      {
+        "name": "M1-CE",
+        "dir": "M1-CE",
+        "display_name": "M1 Ce",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-6.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-7.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-6.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-7.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M1-CE/detail/M1-CE-8.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/M1-CE/M1-CE-1.jpg",
+        "page_url": "others/sockets/M1-CE.html"
+      },
+      {
+        "name": "M8",
+        "dir": "M8",
+        "display_name": "M8",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8/M8-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/M8-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/M8-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/M8-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/M8-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_07.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_08.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_09.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_10.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_11.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_12.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_13.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_14.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_15.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_16.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_17.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8/detail/M8_18.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/M8/M8-1.jpg",
+        "page_url": "others/sockets/M8.html"
+      },
+      {
+        "name": "M8-A",
+        "dir": "M8-A",
+        "display_name": "M8 A",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-07.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-08.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-09.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-10.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-11.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-A/detail/3-12.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/M8-A/M8-A-1.jpg",
+        "page_url": "others/sockets/M8-A.html"
+      },
+      {
+        "name": "M8-E",
+        "dir": "M8-E",
+        "display_name": "M8 E",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-6.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-7.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/07.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/08.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/09.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-E/detail/10.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/M8-E/M8-E-1.jpg",
+        "page_url": "others/sockets/M8-E.html"
+      },
+      {
+        "name": "M8-EU",
+        "dir": "M8-EU",
+        "display_name": "M8 Eu",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-5.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/07.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/M8-EU/detail/08.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/M8-EU/M8-EU-1.jpg",
+        "page_url": "others/sockets/M8-EU.html"
+      },
+      {
+        "name": "U8-A",
+        "dir": "U8-A",
+        "display_name": "U8 A",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-07.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-A/detail/u8-a-08.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/U8-A/U8-A-1.jpg",
+        "page_url": "others/sockets/U8-A.html"
+      },
+      {
+        "name": "U8-AU",
+        "dir": "U8-AU",
+        "display_name": "U8 Au",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-AU/detail/u8-au-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/U8-AU/U8-AU-1.jpg",
+        "page_url": "others/sockets/U8-AU.html"
+      },
+      {
+        "name": "U8-E",
+        "dir": "U8-E",
+        "display_name": "U8 E",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-E/detail/u8-e-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/U8-E/U8-E-1.jpg",
+        "page_url": "others/sockets/U8-E.html"
+      },
+      {
+        "name": "U8-G",
+        "dir": "U8-G",
+        "display_name": "U8 G",
+        "brand": "MAYA",
+        "images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-1.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-2.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-3.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-4.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-5.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-6.jpg"
+        ],
+        "detail_images": [
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-01.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-02.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-03.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-04.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-05.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-06.jpg",
+          "images/others/sockets/maya/maya-travel-adapter/U8-G/detail/u8-g-07.jpg"
+        ],
+        "thumb": "images/others/sockets/maya/maya-travel-adapter/U8-G/U8-G-1.jpg",
+        "page_url": "others/sockets/U8-G.html"
       }
     ],
     "laptops": [
@@ -582,7 +1706,8 @@
         ],
         "detail_images": [],
         "thumb": "images/others/laptops/kilin-fz-yh5722/kilin-fz-yh5722-1.jpg",
-        "display_name": "KILIN 骐麟 FZ-YH5722"
+        "display_name": "KILIN 骐麟 FZ-YH5722",
+        "page_url": "others/laptops/kilin-fz-yh5722.html"
       },
       {
         "name": "kilin-fz-yh5731",
@@ -595,7 +1720,8 @@
         ],
         "detail_images": [],
         "thumb": "images/others/laptops/kilin-fz-yh5731/kilin-fz-yh5731-1.jpg",
-        "display_name": "KILIN 骐麟 FZ-YH5731"
+        "display_name": "KILIN 骐麟 FZ-YH5731",
+        "page_url": "others/laptops/kilin-fz-yh5731.html"
       }
     ]
   }

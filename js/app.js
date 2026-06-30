@@ -86,10 +86,14 @@ function getAllProducts(data) {
 
 // ========== Product page URL builder ==========
 function productUrl(p) {
+  // Use pre-computed page_url from products.json
+  let url = p.page_url;
+  if (url) return getBasePath() + '/' + url;
+  // Fallback: generate from name
   const cat = p.category || '';
   const sub = p.subCategory || '';
-  const name = slug(p.name);
-  return `${cat}/${sub ? sub + '/' : ''}${name}.html`;
+  const name = slug(p.display_name || p.name);
+  return getBasePath() + '/' + (cat + (sub ? '/' + sub : '') + '/' + name + '.html');
 }
 
 // ========== Render product cards in a grid ==========
