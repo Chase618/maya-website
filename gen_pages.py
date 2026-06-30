@@ -28,6 +28,12 @@ def make_product_page(p, category, sub_category, index_depth):
     thumb = thumb.replace('\\', '/')
     display_name = p.get('display_name', p['name'])
 
+    # Fix image paths: prepend ../ for subdirectory pages
+    prefix = '../' if index_depth != '' else ''
+    all_imgs = [prefix + img for img in all_imgs]
+    detail_imgs = [prefix + img for img in detail_imgs]
+    thumb = prefix + thumb
+
     sub_label = sub_labels.get(sub_category, sub_category) if sub_category else ''
 
     thumbs_html = ''

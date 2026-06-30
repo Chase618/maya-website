@@ -31,7 +31,7 @@ for brand in sorted(os.listdir(sockets_base)):
             prod_path = os.path.join(cat_path, product)
             if not os.path.isdir(prod_path):
                 continue
-            # Find images and normalize paths
+            # Find images - store clean paths in products.json (for JS app.js)
             imgs = []
             detail_imgs = []
             for f in sorted(os.listdir(prod_path)):
@@ -109,9 +109,14 @@ def esc(s):
 for p in sockets_products:
     slug = p['name']
     filename = f'others/sockets/{slug}.html'
-    all_imgs = p.get('images', [])
-    detail_imgs = p.get('detail_images', [])
-    thumb = all_imgs[0] if all_imgs else ''
+    # Clean paths for products.json (JS uses getBasePath)
+    all_imgs_clean = p.get('images', [])
+    detail_imgs_clean = p.get('detail_images', [])
+    thumb_clean = all_imgs_clean[0] if all_imgs_clean else ''
+    # Prefixed paths for static HTML (../../ for 2-level deep)
+    all_imgs = ['../../' + p for p in all_imgs_clean]
+    detail_imgs = ['../../' + p for p in detail_imgs_clean]
+    thumb = all_imgs[0] if all_imgs else thumb_clean
 
     thumbs_html = ''
     for i, img in enumerate(all_imgs):
