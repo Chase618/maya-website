@@ -24,15 +24,23 @@
   </div>
 </nav>
 
-<!-- Hero Section -->
+<!-- Hero Section with Carousel -->
 <section class="hero">
   <div class="hero-content">
     <h1 class="hero-title">MAYA 玛雅</h1>
     <p class="hero-subtitle">科技美学，极致体验</p>
     <a href="#categories" class="hero-cta">探索产品 →</a>
   </div>
-  <div class="hero-image">
-    <img src="images/monitors/commercial/air-24-air24/1.jpg" alt="MAYA 显示器">
+  <div class="hero-carousel" id="heroCarousel">
+    <div class="hero-slides">
+      <div class="hero-slide active"><img src="images/玛雅显示器/电竞系列/7g27q-27-144hz/7G27Q-1.jpg" alt="MAYA 显示器"></div>
+      <div class="hero-slide"><img src="images/玛雅一体机/maya-white-whale-gs24/maya-gs24-1.jpg" alt="MAYA 一体机"></div>
+      <div class="hero-slide"><img src="images/玛雅显示器/电竞系列/7g40-38-5-144hz/7G40-1.jpg" alt="MAYA 显示器"></div>
+      <div class="hero-slide"><img src="images/玛雅一体机/kilin-xps24m/1.jpg" alt="MAYA 一体机"></div>
+      <div class="hero-slide"><img src="images/玛雅显示器/设计系列/q32/Q32-1.jpg" alt="MAYA 显示器"></div>
+      <div class="hero-slide"><img src="images/其他产品/VR类目/maya-vr-headset/vr-1.jpg" alt="MAYA VR"></div>
+    </div>
+    <div class="hero-dots" id="heroDots"></div>
   </div>
 </section>
 
@@ -46,9 +54,9 @@
 
   <div class="category-grid">
     <!-- 玛雅显示器 -->
-    <div class="category-card" onclick="location.href='玛雅显示器/index.html'">
+    <div class="category-card" onclick="location.href='%E7%8E%9B%E9%9B%85%E6%98%BE%E7%A4%BA%E5%99%A8/index.html'">
       <div class="category-card-bg">
-        <img src="images/monitors/gaming/7g27q-27-144hz/7G27Q-1.jpg" alt="玛雅显示器" loading="lazy">
+        <img src="images/玛雅显示器/电竞系列/7g27q-27-144hz/7G27Q-1.jpg" alt="玛雅显示器" loading="lazy">
       </div>
       <div class="category-card-content">
         <h3 class="category-card-title">玛雅显示器</h3>
@@ -58,9 +66,9 @@
     </div>
 
     <!-- 玛雅一体机 -->
-    <div class="category-card" onclick="location.href='玛雅一体机/index.html'">
+    <div class="category-card" onclick="location.href='%E7%8E%9B%E9%9B%85%E4%B8%80%E4%BD%93%E6%9C%BA/index.html'">
       <div class="category-card-bg">
-        <img src="images/aios/maya-white-whale-gs24/maya-gs24-1.jpg" alt="玛雅一体机" loading="lazy">
+        <img src="images/玛雅一体机/maya-white-whale-gs24/maya-gs24-1.jpg" alt="玛雅一体机" loading="lazy">
       </div>
       <div class="category-card-content">
         <h3 class="category-card-title">玛雅一体机</h3>
@@ -70,9 +78,9 @@
     </div>
 
     <!-- 其他产品 -->
-    <div class="category-card" onclick="location.href='其他产品/index.html'">
+    <div class="category-card" onclick="location.href='%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81/index.html'">
       <div class="category-card-bg">
-        <img src="images/others/vr/maya-vr-headset/vr-1.jpg" alt="其他产品" loading="lazy">
+        <img src="images/其他产品/VR类目/maya-vr-headset/vr-1.jpg" alt="其他产品" loading="lazy">
       </div>
       <div class="category-card-content">
         <h3 class="category-card-title">其他产品</h3>
@@ -100,5 +108,41 @@
 </footer>
 
 <script src="js/app.js"></script>
+<script>
+// Homepage carousel
+(function() {
+  const slides = document.querySelectorAll('.hero-slide');
+  const dotsContainer = document.getElementById('heroDots');
+  if (!slides.length || !dotsContainer) return;
+
+  let current = 0;
+
+  // Create dots
+  slides.forEach((_, i) => {
+    const dot = document.createElement('button');
+    dot.className = 'hero-dot' + (i === 0 ? ' active' : '');
+    dot.setAttribute('aria-label', '第 ' + (i+1) + ' 张');
+    dot.addEventListener('click', () => goTo(i));
+    dotsContainer.appendChild(dot);
+  });
+
+  const dots = dotsContainer.querySelectorAll('.hero-dot');
+
+  function goTo(index) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = index;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+  }
+
+  function next() {
+    goTo((current + 1) % slides.length);
+  }
+
+  // Auto-rotate every 3.5 seconds
+  setInterval(next, 3500);
+})();
+</script>
 </body>
 </html>

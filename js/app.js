@@ -107,7 +107,9 @@ function renderProductGrid(container, products) {
     const thumb = img(p.thumb || p.images[0]);
     const url = productUrl(p);
     const tag = getCategoryLabel(p.category, p.subCategory);
-    const displayName = p.display_name || p.name;
+    // Uppercase any English letters in display name
+    let displayName = p.display_name || p.name;
+    displayName = displayName.replace(/[a-z]/g, c => c.toUpperCase());
     return `
       <div class="product-card" onclick="location.href='${url}'">
         <div class="product-card-image">

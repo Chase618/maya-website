@@ -236,6 +236,67 @@ button {
   box-shadow: 0 40px 80px rgba(0,0,0,0.4);
 }
 
+/* Hero Carousel */
+.hero-carousel {
+  position: relative;
+  z-index: 1;
+  max-width: 900px;
+  width: 100%;
+  margin-top: 48px;
+}
+
+.hero-slides {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 40px 80px rgba(0,0,0,0.4);
+}
+
+.hero-slide {
+  display: none;
+  width: 100%;
+}
+
+.hero-slide.active {
+  display: block;
+  animation: heroFade 0.8s ease;
+}
+
+@keyframes heroFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.hero-slide img {
+  width: 100%;
+  display: block;
+}
+
+/* Carousel dots */
+.hero-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.hero-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.3);
+  cursor: pointer;
+  transition: all var(--transition);
+  border: none;
+  padding: 0;
+}
+
+.hero-dot.active {
+  background: #fff;
+  width: 24px;
+  border-radius: 4px;
+}
+
 /* ========== Category Grid (Home) ========== */
 .section {
   padding: 100px 24px;
@@ -460,34 +521,28 @@ button {
   padding-top: var(--nav-height);
 }
 
-.product-hero {
-  background: var(--color-bg-dark);
-  color: var(--color-text-light);
-  text-align: center;
-  padding: 80px 24px;
-}
-
-.product-hero-title {
-  font-family: var(--font-heading);
-  font-size: clamp(28px, 5vw, 48px);
-  font-weight: 700;
-  margin-bottom: 12px;
-}
-
-.product-hero-tag {
-  font-size: 17px;
-  color: rgba(255,255,255,0.6);
-  margin-bottom: 48px;
-}
-
-.product-hero-image {
-  max-width: 900px;
+/* Product header (no dark background) */
+.product-header {
+  max-width: var(--max-width);
   margin: 0 auto;
+  padding: 32px 24px 8px;
+  text-align: center;
 }
 
-.product-hero-image img {
-  width: 100%;
-  border-radius: 16px;
+.product-title {
+  font-family: var(--font-heading);
+  font-size: clamp(28px, 4vw, 44px);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+
+.product-brand {
+  font-size: 16px;
+  color: var(--color-text-secondary);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 500;
 }
 
 /* Product gallery (thumbnails) */
@@ -691,7 +746,5 @@ button {
 @media (max-width: 768px) {
   .section { padding: 60px 16px; }
   .category-card { min-height: 360px; }
-  .product-hero { padding: 60px 16px 40px; }
   .product-gallery-main { min-height: 300px; }
-  .product-hero-image img { border-radius: 0; }
 }
