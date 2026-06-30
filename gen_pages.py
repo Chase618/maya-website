@@ -28,11 +28,10 @@ def make_product_page(p, category, sub_category, index_depth):
     thumb = thumb.replace('\\', '/')
     display_name = p.get('display_name', p['name'])
 
-    # Fix image paths: prepend ../ for subdirectory pages
-    prefix = '../' if index_depth != '' else ''
-    all_imgs = [prefix + img for img in all_imgs]
-    detail_imgs = [prefix + img for img in detail_imgs]
-    thumb = prefix + thumb
+    # Fix image paths: prepend the same depth prefix used for nav links
+    all_imgs = [index_depth + img for img in all_imgs]
+    detail_imgs = [index_depth + img for img in detail_imgs]
+    thumb = index_depth + thumb
 
     sub_label = sub_labels.get(sub_category, sub_category) if sub_category else ''
 
@@ -119,7 +118,8 @@ for sub, prods in data.get('monitors', {}).items():
     for p in prods:
         slug = p.get('name', 'product')
         filename = f'{dir_path}/{slug}.html'
-        depth = '../' if sub else ''
+        # Calculate depth based on directory nesting
+        depth = '../' if not sub else '../../'  # monitors/page.html vs monitors/commercial/page.html
         html = make_product_page(p, 'monitors', sub, depth)
         with open(filename, 'w', encoding='utf-8') as out:
             out.write(html)
@@ -130,7 +130,7 @@ os.makedirs('aios', exist_ok=True)
 for p in data.get('aios', []):
     slug = p.get('name', 'product')
     filename = f'aios/{slug}.html'
-    html = make_product_page(p, 'aios', '', '../')
+    html = make_product_page(p, 'aios', '', '../')  # aios/ is 1 level deep
     with open(filename, 'w', encoding='utf-8') as out:
         out.write(html)
     count += 1
@@ -142,7 +142,7 @@ for sub, prods in data.get('others', {}).items():
     for p in prods:
         slug = p.get('name', 'product')
         filename = f'{dir_path}/{slug}.html'
-        html = make_product_page(p, 'others', sub, '../../')
+        html = make_product_page(p, 'others', sub, '../../')  # others/vr/ is 2 levels deep
         with open(filename, 'w', encoding='utf-8') as out:
             out.write(html)
         count += 1
