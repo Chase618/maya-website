@@ -126,16 +126,16 @@ function renderProductGrid(container, products) {
 function getCategoryLabel(cat, sub) {
   const labels = {
     monitors: {
-      commercial: '商用系列',
-      gaming: '电竞系列',
-      design: '设计系列',
-      professional: '专业系列'
+      '商用系列': '商用系列',
+      '电竞系列': '电竞系列',
+      '设计系列': '设计系列',
+      '专业系列': '专业系列'
     },
     aios: { '': '一体机' },
     others: {
-      vr: 'VR设备',
-      sockets: '插座/转换器',
-      laptops: '笔记本电脑'
+      'VR类目': 'VR设备',
+      '插座类目': '插座/转换器',
+      '笔记本电脑类目': '笔记本电脑'
     }
   };
   return (labels[cat] && labels[cat][sub]) || '';
