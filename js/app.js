@@ -47,7 +47,7 @@ let productsData = null;
 
 async function loadProducts() {
   if (productsData) return productsData;
-  const res = await fetch('products.json');
+  const res = await fetch(getBasePath() + '/products.json');
   productsData = await res.json();
   return productsData;
 }
