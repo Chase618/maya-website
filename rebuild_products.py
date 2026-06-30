@@ -31,16 +31,16 @@ for brand in sorted(os.listdir(sockets_base)):
             prod_path = os.path.join(cat_path, product)
             if not os.path.isdir(prod_path):
                 continue
-            # Find images
+            # Find images and normalize paths
             imgs = []
             detail_imgs = []
             for f in sorted(os.listdir(prod_path)):
                 fp = os.path.join(prod_path, f)
                 if os.path.isfile(fp) and f.lower().endswith('.jpg'):
                     if 'detail' in f.lower():
-                        detail_imgs.append(fp)
+                        detail_imgs.append(fp.replace('\\', '/'))
                     else:
-                        imgs.append(fp)
+                        imgs.append(fp.replace('\\', '/'))
             # Check for detail subdirectory
             for dd in sorted(os.listdir(prod_path)):
                 ddp = os.path.join(prod_path, dd)
@@ -48,7 +48,7 @@ for brand in sorted(os.listdir(sockets_base)):
                     for f in sorted(os.listdir(ddp)):
                         fp = os.path.join(ddp, f)
                         if os.path.isfile(fp) and f.lower().endswith('.jpg'):
-                            detail_imgs.append(fp)
+                            detail_imgs.append(fp.replace('\\', '/'))
 
             # Normalize paths
             imgs = [p.replace('\\', '/') for p in imgs]
