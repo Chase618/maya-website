@@ -1,11 +1,26 @@
 /* ========== App.js - Maya Website ========== */
 
-// Utility: get image URL relative to project root
+// Utility: get image URL relative to site root
+// Detects the repo base path from the current script URL
+let _basePath = '';
+function getBasePath() {
+  if (_basePath) return _basePath;
+  const scripts = document.getElementsByTagName('script');
+  for (const s of scripts) {
+    if (s.src && s.src.includes('/js/app.js')) {
+      // e.g. /maya-website/js/app.js -> /maya-website
+      _basePath = s.src.replace(/\/js\/app\.js.*$/, '');
+      return _basePath;
+    }
+  }
+  return '';
+}
+
 function img(path) {
   if (!path) return '';
-  // Ensure path starts with / for absolute resolution from any page
+  // Ensure path is relative to site root
   if (path.startsWith('images/')) {
-    return '/' + path;
+    return getBasePath() + '/' + path;
   }
   return path;
 }
