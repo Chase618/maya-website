@@ -97,6 +97,14 @@ for p in data['others']['sockets']:
 </nav>'''
 
     # NO dark hero - start directly with breadcrumb + gallery
+    desc_lines = p.get('description', [])
+    desc_html = ''
+    if desc_lines:
+        desc_html = '<div class="product-desc"><div class="product-desc-title">产品介绍</div><ul>'
+        for line in desc_lines:
+            desc_html += f'<li>{esc(line)}</li>'
+        desc_html += '</ul></div>'
+
     body = f'''
 <div class="breadcrumb">
   <a href="{depth}index.html">首页</a> <span>›</span>
@@ -109,6 +117,7 @@ for p in data['others']['sockets']:
     <h1 class="product-title">{esc(display_name)}</h1>
     <p class="product-brand">{esc(brand)}</p>
   </div>
+  {desc_html}
 '''
     if all_imgs:
         body += f'''
@@ -214,6 +223,15 @@ def make_product_html_v2(p, category, sub_label, depth):
     else:
         crumb = f'<a href="{depth}%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81/index.html">其他产品</a> <span>›</span> <a href="../index.html">{esc(sub_label)}</a> <span>›</span> {esc(display_name)}'
 
+    # Build description HTML
+    desc_lines = p.get('description', [])
+    desc_html = ''
+    if desc_lines:
+        desc_html = '<div class="product-desc"><div class="product-desc-title">产品介绍</div><ul>'
+        for line in desc_lines:
+            desc_html += f'<li>{esc(line)}</li>'
+        desc_html += '</ul></div>'
+
     body = f'''
 <div class="breadcrumb">
   <a href="{depth}index.html">首页</a> <span>›</span> {crumb}
@@ -223,6 +241,7 @@ def make_product_html_v2(p, category, sub_label, depth):
     <h1 class="product-title">{esc(display_name)}</h1>
     <p class="product-brand">{esc(sub_label)}</p>
   </div>
+  {desc_html}
 '''
     if all_imgs:
         body += f'''
